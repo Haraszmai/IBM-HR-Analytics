@@ -87,13 +87,13 @@ This dashboard demonstrates how HR departments can leverage data analytics to re
 ---
 
 ## 🙋‍♀️ Author
-Hi! I'm currently new in the field of data analytics and still learning by building practical projects like this one.  
-This is one of my first Power BI projects and I’d really appreciate any **review, suggestions, or constructive feedback** to help me grow.
+I’m an aspiring Data Analyst currently building hands-on projects to enhance my skills in Power BI, Excel, and SQL. This is one of my first Power BI dashboards, and I'm always open to feedback or collaboration opportunities.
+
 
 ---
 
 📫 Feel free to connect or reach out:
-- GitHub: [YourUsername](https://github.com/Haraszmai)
+- GitHub: [Haraszmai](https://github.com/Haraszmai)
 
 ---
 
