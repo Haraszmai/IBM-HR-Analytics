@@ -61,11 +61,11 @@ To analyze employee attrition and understand how factors such as department, job
 - **KPI Cards**: Total Employees, Attrition Count, Attrition Rate, Active Employees, Average Age.
 - **Charts**:
   - Attrition by Department (Pie)
-  - Attrition by Education Field (Bar)
-  - Employee Count by Age Band and Gender (Stacked Column)
-  - Job Satisfaction Matrix by Role
-  - Attrition Rate by Gender & Age Group
-- **Slicers** for Department, Education Field, and Business Travel.
+  - Attrition by Average Monthly Income (Bar)
+  - Employee Count by Age Band and Gender (Column)
+  - Job Satisfaction by Rating (Matrix)
+  - Attrition Rate by Gender & Age Group (Donut)
+- **Slicers** for Education Field.
 - Interactive filters and clean, professional design.
 
 ---
